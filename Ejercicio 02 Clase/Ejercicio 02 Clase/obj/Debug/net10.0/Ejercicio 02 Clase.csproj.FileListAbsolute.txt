@@ -1,0 +1,15 @@
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\bin\Debug\net10.0\Ejercicio 02 Clase.exe
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\bin\Debug\net10.0\Ejercicio 02 Clase.deps.json
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\bin\Debug\net10.0\Ejercicio 02 Clase.runtimeconfig.json
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\bin\Debug\net10.0\Ejercicio 02 Clase.dll
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\bin\Debug\net10.0\Ejercicio 02 Clase.pdb
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.AssemblyInfoInputs.cache
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.AssemblyInfo.cs
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.dll
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\refint\Ejercicio 02 Clase.dll
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.pdb
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercicio 02 Clase.genruntimeconfig.cache
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\ref\Ejercicio 02 Clase.dll
+C:\Users\PERLA\source\repos\Ejercicio 02 Clase\Ejercicio 02 Clase\obj\Debug\net10.0\Ejercici.7A007356.Up2Date

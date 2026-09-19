@@ -1,0 +1,15 @@
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\bin\Debug\net10.0\Ejercicio 01 Actvidad.exe
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\bin\Debug\net10.0\Ejercicio 01 Actvidad.deps.json
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\bin\Debug\net10.0\Ejercicio 01 Actvidad.runtimeconfig.json
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\bin\Debug\net10.0\Ejercicio 01 Actvidad.dll
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\bin\Debug\net10.0\Ejercicio 01 Actvidad.pdb
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.AssemblyInfoInputs.cache
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.AssemblyInfo.cs
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.csproj.CoreCompileInputs.cache
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.dll
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\refint\Ejercicio 01 Actvidad.dll
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.pdb
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercicio 01 Actvidad.genruntimeconfig.cache
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\ref\Ejercicio 01 Actvidad.dll
+C:\Users\PERLA\source\repos\Ejercicio 01 Actvidad\Ejercicio 01 Actvidad\obj\Debug\net10.0\Ejercici.3938EFFF.Up2Date
